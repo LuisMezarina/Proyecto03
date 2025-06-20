@@ -96,27 +96,6 @@ previewBtn.addEventListener("click", () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const toggleDarkModeBtn = document.getElementById('toggle-darkmode');
 const body = document.body;
 
@@ -138,74 +117,6 @@ toggleDarkModeBtn.addEventListener('click', () => {
     darkMode = !darkMode;
     applyDarkMode(darkMode);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // Exportar vista previa como PDF
